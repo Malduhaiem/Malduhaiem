@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Malduhaiem
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Excel
+- 🌱 I’m currently building dashboards
 - 💞️ I’m looking to collaborate on Automation, Bots, Excel, Blockhain, and Metaverse.
 - 📫 How to reach me ... yccudd@gmail.com
 
